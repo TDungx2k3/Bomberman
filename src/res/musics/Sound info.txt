@@ -1,0 +1,4 @@
+soundbomb.wav: https://assets.mixkit.co/sfx/download/mixkit-arcade-game-explosion-2759.wav
+bomberhit.wav: https://assets.mixkit.co/sfx/download/mixkit-scream-in-pain-2200.wav
+gameover.wav: https://assets.mixkit.co/sfx/download/mixkit-sad-game-over-trombone-471.wav
+gamestart.wav: https://assets.mixkit.co/sfx/download/mixkit-game-level-completed-2059.wav
